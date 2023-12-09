@@ -1,0 +1,8 @@
+.card{
+    width: 400px;
+    height: 400px;
+    max-width: 90vw;
+    background-color:blueviolet ;
+    border-radius:1.25rem ;
+    padding: 2rem;
+}
